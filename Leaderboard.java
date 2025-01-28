@@ -1,10 +1,3 @@
-//Title:    P09_Leaderboard
-// Course:   CS 300 Fall 2024
-//
-// Author:   Maanan Purothi
-// Email:    purothi@wisc.edu
-// Lecturer: Hobbes LeGault
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
